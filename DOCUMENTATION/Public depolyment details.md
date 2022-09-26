@@ -10,7 +10,7 @@ MEDICHAIN  :- RECORD BOOK OF PATIENTS
 
 
 
-****Change truffle config file 
+`````Change truffle config file 
 const { projectId, mnemonic } = require('./secrets.json');
 const HDWalletProvider = require('@truffle/hdwallet-provider');
 
