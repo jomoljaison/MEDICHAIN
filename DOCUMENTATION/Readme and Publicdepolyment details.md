@@ -1,7 +1,7 @@
 MEDICHAIN
 RECORD BOOK OF PATIENTS
 
-Setting Up:
+Setting Up: 
 
 Step 1: Download the repostory using the command:
 
