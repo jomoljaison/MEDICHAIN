@@ -5,12 +5,10 @@ MEDICHAIN  :- RECORD BOOK OF PATIENTS
 			PUBLIC TEST network Deployment Details
 
 
+make change in files
 
+``***Change truffle config file 
 
-
-
-
-`````Change truffle config file 
 const { projectId, mnemonic } = require('./secrets.json');
 const HDWalletProvider = require('@truffle/hdwallet-provider');
 
