@@ -9,8 +9,8 @@ MEDICHAIN  :- RECORD BOOK OF PATIENTS
 
 
 
-```````Change truffle config file 
 
+****Change truffle config file 
 const { projectId, mnemonic } = require('./secrets.json');
 const HDWalletProvider = require('@truffle/hdwallet-provider');
 
@@ -33,13 +33,13 @@ module.exports = {
       skipDryRun: true     // Skip dry run before migrations? (default: false for public nets )
     },
    },
-<cmd>
-npx truffle console --network ropsten
+   
+****<cmd>npx truffle console --network ropsten
 truffle(ropsten)> await web3.eth.getAccounts()
 </cmd>
 <cmd> npx truffle migrate --network ropsten</cmd>
 <cmd>npm start</cmd>
-
+****
 
 
 
